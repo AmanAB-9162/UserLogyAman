@@ -27,7 +27,7 @@ export function Footer() {
           </div>
           <div className="flex items-center gap-4">
             <Link
-              href="https://github.com/yourusername"
+              href="https://github.com/AmanAB-9162"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-foreground transition-colors"
@@ -36,7 +36,7 @@ export function Footer() {
               <span className="sr-only">GitHub</span>
             </Link>
             <Link
-              href="https://linkedin.com/in/yourusername"
+              href="https://www.linkedin.com/in/aman-bhagat-350a19256/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-foreground transition-colors"
